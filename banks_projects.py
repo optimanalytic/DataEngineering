@@ -1,3 +1,5 @@
+# This code is part of the IBM Data Engineering Professional Certificate course on Coursera.
+
 from datetime import datetime
 import pandas as pd
 import requests
