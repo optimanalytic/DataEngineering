@@ -1,3 +1,5 @@
+# This code is part of the IBM Data Engineering Professional Certificate course on Coursera.
+
 def mean(numbers):
     """Returns the mean of a list of numbers."""
     return sum(numbers) / len(numbers)
